@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737157344642",
+    "project_id": "smart-green-agricultural-house",
+    "storage_bucket": "smart-green-agricultural-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737157344642:android:5a4a4cdcf8ecf6bed6b39b",
+        "android_client_info": {
+          "package_name": "com.smart_agricultural_green_house2023.smart_agricultural_green_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5Uo4V0P4Kj_WlM0LDf5gV8OAb-_RRkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
